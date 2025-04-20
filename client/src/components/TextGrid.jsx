@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { CopyToClipboard } from "react-copy-to-clipboard"; // Importing copy-to-clipboard library
+// import { CopyToClipboard } from "react-copy-to-clipboard"; // Importing copy-to-clipboard library
 import { FaFileAlt, FaMagic, FaGlobe } from "react-icons/fa"; // Importing icons from react-icons
 
 const TextGrid = ({ originalText, simplifiedText, translatedText }) => {
@@ -44,11 +44,11 @@ const TextGrid = ({ originalText, simplifiedText, translatedText }) => {
           readOnly
           rows={6} // Making the text field bigger
         />
-        <CopyToClipboard text={simplifiedText} onCopy={() => handleCopy("simplified")}>
+        {/* <CopyToClipboard text={simplifiedText} onCopy={() => handleCopy("simplified")}>
           <button className="absolute top-4 right-4 px-3 py-1 bg-slate-400 text-white rounded-md text-sm hover:bg-slate-600 transition duration-200">
             {copiedText === "simplified" ? "Copied" : "Copy"}
           </button>
-        </CopyToClipboard>
+        </CopyToClipboard> */}
       </div>
 
       {/* Translated Text */}
