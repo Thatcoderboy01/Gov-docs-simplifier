@@ -25,20 +25,19 @@ GovDocs Simplifier provides a simple, effective solution to this problem by:
 ## **Technology Stack**
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL with Prisma ORM
 - **AI/NLP:** OpenAI GPT-4, HuggingFace Transformers
 - **PDF Handling:** pdf-parse (or similar)
 - **Hosting/Deployment:** Vercel (Frontend), Render/Railway (Backend)
 
 ## **Team Members**
 
-### **Raeen Fatima** - Frontend Developer & UI/UX Design  
-Raeen worked on the entire frontend development, ensuring that the platform’s user interface is intuitive and accessible. She used **React.js** and **Tailwind CSS** to create a responsive and user-friendly design. Raeen was also involved in integrating AI models into the frontend to ensure a smooth user experience when viewing simplified documents.
-
-### **Ritesh Ray** - Backend Developer & Integration  
+### **Ritesh Ray** - Backend Developer & Integration  + Deployment (Team Leader)
 Ritesh was in charge of the backend development and system integration. Using **Node.js** and **Express.js**, he built the server-side logic to handle document uploads, simplify the text, and serve it back to the frontend. He also integrated the AI models from **OpenAI GPT-4**  to process the documents efficiently. Ritesh worked with Raeen to ensure smooth integration between the frontend and backend.
 
-### **Adelli Chandana** - Research & Presentation  
+### **Raeen Fatima** - Frontend Developer & UI/UX Design (Member)
+Raeen worked on the entire frontend development, ensuring that the platform’s user interface is intuitive and accessible. She used **React.js** and **Tailwind CSS** to create a responsive and user-friendly design. Raeen was also involved in integrating AI models into the frontend to ensure a smooth user experience when viewing simplified documents.
+
+### **Adelli Chandana** - Research & Presentation  (Member)
  She focused on selecting the best models for document simplification and fine-tuning them for legal and bureaucratic language. Adelli was also responsible for preparing the project presentation, ensuring clear communication of the project’s impact, technical details, and future potential.
 
 ## **Project Roadmap**
@@ -73,11 +72,11 @@ GovDocs Simplifier is designed to:
 ## **Get in Touch**
 We welcome feedback and suggestions to improve the platform! You can reach out to us through our team members’ LinkedIn or GitHub profiles:
 
-### **Raeen Fatima**  
-- [LinkedIn](https://www.linkedin.com/in/raeen-saifi-a8b6172a8/) | [GitHub](https://github.com/raeen-fatima)
-
 ### **Ritesh Ray**  
 - [LinkedIn](https://www.linkedin.com/in/ritesh-ray-682056319/) | [GitHub](https://github.com/Thatcoderboy01)
+
+### **Raeen Fatima**  
+- [LinkedIn](https://www.linkedin.com/in/raeen-saifi-a8b6172a8/) | [GitHub](https://github.com/raeen-fatima)
 
 ### **Adelli Chandana**  
 - [LinkedIn](https://www.linkedin.com/in/chandana-adelli-7bb557299/) | [GitHub](https://github.com/Chandana-code113)
